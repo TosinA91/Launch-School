@@ -1,0 +1,1 @@
+Completing exercises from the Launch School Intro to JavaScript Book.
